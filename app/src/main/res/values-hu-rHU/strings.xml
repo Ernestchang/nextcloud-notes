@@ -3,6 +3,8 @@
 
     <string name="app_name">Jegyzetek</string>
     <string name="no_notes">Még nincsenek jegyzetek</string>
+    <string name="label_all_notes">Minden jegyzet</string>
+    <string name="label_favorites">Kedvencek</string>
     <string name="action_create">Új jegyzet</string>
     <string name="action_settings">Beállítások</string>
     <string name="action_search">Keresés</string>
@@ -21,7 +23,6 @@
     <string name="action_drawer_open">navigáció megnyitása</string>
     <string name="action_drawer_close">navigáció bezárása</string>
     <string name="action_recent">Friss</string>
-    <string name="action_starred">Csillagozott</string>
     <string name="action_uncategorized">Kategorizálatlan</string>
     <string name="menu_delete">Törlés</string>
     <string name="menu_copy">Másol</string>
